@@ -1,0 +1,27 @@
+{
+  "name": "react-clarity",
+  "version": "1.0.0",
+  "description": "Clarity UI components implementation with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaskar/react-clarity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaskar/react-clarity/issues"
+  },
+  "homepage": "https://github.com/gaskar/react-clarity#readme",
+  "dependencies": {
+    "@clr/icons": "^1.0.5",
+    "@clr/ui": "^1.0.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
